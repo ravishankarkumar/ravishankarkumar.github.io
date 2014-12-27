@@ -41,7 +41,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-	 <li class="active"><a href="/contacts.html">Contact us <span class="sr-only">(current)</span></a></li>
+	<li class="active"><a href="/contacts.html">Contact us <span class="sr-only">(current)</span></a></li>
         <li class="active"><a href="https://www.facebook.com/profile.php?id=100005107668320">Founder <span class="sr-only">(current)</span></a></li>
         
         <li class="dropdown">
@@ -115,3 +115,4 @@ I am dedicated towards making Education affordable and assesible for all. Be it 
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
   </body>
 </html>
+
