@@ -1,4 +1,0 @@
-vidyarthi
-=========
-
-my firrst repo
