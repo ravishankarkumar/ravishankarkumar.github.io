@@ -1,39 +1,39 @@
 {
-  default:[
+  "default":[
     {
-      title: 'title 1',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/nature',
+      "title": "title 1",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/nature"
     },
     {
-      title: 'title 2',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/animals',
+      "title": "title 2",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/animals"
     },
     {
-      title: 'title 3',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/transport',
+      "title": "title 3",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/transport"
     },
     {
-      title: 'title 4',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/nightlife',
+      "title": "title 4",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/nightlife"
     },
     {
-      title: 'title 5',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/food',
+      "title": "title 5",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/food"
     },
     {
-      title: 'title 6',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/fashion',
+      "title": "title 6",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/fashion"
     },
     {
-      title: 'title 7',
-      summary: 'A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.',
-      image: 'http://lorempixel.com/g/1000/250/business',
-    },
+      "title": "title 7",
+      "summary": "A vivamus neque consectetur parturient mi nisl proin molestie vestibulum in fames condimentum cum a.",
+      "image": "http://lorempixel.com/g/1000/250/business"
+    }
   ]
 }
