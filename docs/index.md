@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Project kanha
-      link: /project-kanha
+      link: https://projectkanha.com/about
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples

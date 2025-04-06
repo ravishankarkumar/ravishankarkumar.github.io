@@ -4,15 +4,16 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Ravi Shankar Krishnauth",
   description: "Personal website of Ravi Shankar krishnauth",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Project Kanha', link: '/project-kanha' }
+      { text: 'Project Kanha', link: 'https://projectkanha.com/about' }
     ],
 
     sidebar: [
-      { text: 'Project Kanha', link: '/project-kanha' }
+      { text: 'Project Kanha', link: 'https://projectkanha.com/about' }
       // {
       //   text: 'Examples',
       //   items: [

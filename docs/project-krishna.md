@@ -2,6 +2,14 @@
 
 # Project Kanha
 
+::: info
+
+This page is moved to its own website. [Project kanha Website](https://projectkanha.com/about).
+
+**NOTE:** The project has been renamed to Project Kanha, because website for projectkrishna.com was not available.
+
+:::
+
 **Mission:**  
 My life’s mission is to conquer the Solar System — to make every planet and most natural satellites habitable, and to transform interplanetary travel into something as everyday as a flight from Patna to Bangalore. I want humanity to not just survive beyond Earth, but thrive — to turn the Solar System into our playground, not a distant dream. Every ounce of effort, every breakthrough I chase, is part of **Project Kanha**.
 
