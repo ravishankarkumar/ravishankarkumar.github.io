@@ -8,7 +8,7 @@ hero:
   # tagline: My great project tagline
   actions:
     - theme: brand
-      text: Project kanha
+      text: Project Kanha
       link: https://projectkanha.com/about
     # - theme: alt
     #   text: API Examples
