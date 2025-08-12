@@ -1,4 +1,4 @@
-vidyarthi
+Ravi Shankar
 =========
 
-my firrst repo
+This repo contains code for my (Ravi Shankar Krishnauth) personal website.
