@@ -9,11 +9,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog - AI under the hood', link: 'https://aiunderthehood.com/' }
+      // { text: 'Blog - AI under the hood', link: 'https://aiunderthehood.com/' }
     ],
 
     sidebar: [
-      { text: 'Blog - AI under the hood', link: 'https://aiunderthehood.com/' }
+      // { text: 'Blog - AI under the hood', link: 'https://aiunderthehood.com/' }
       // {
       //   text: 'Examples',
       //   items: [

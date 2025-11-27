@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: Linkedin
       link: https://www.linkedin.com/in/ravi-shankar-a725b0225/
-    - theme: alt
-      text: Blog - AI under the hood
-      link: https://aiunderthehood.com/
+    # - theme: alt
+    #   text: Blog - AI under the hood
+    #   link: https://aiunderthehood.com/
 
 # features:
 #   - title: Feature A
