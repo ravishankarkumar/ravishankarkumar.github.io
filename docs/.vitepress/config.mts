@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Resume', link: '/resume.pdf' },
       // { text: 'Blog - AI under the hood', link: 'https://aiunderthehood.com/' }
     ],
 
