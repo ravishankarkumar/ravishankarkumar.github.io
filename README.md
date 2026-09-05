@@ -1,4 +1,4 @@
 Ravi Shankar
 =========
 
-This repo contains code for my (Ravi Shankar Krishnauth) personal website.
+This repo contains code for my (Ravi Shankar) personal website.
