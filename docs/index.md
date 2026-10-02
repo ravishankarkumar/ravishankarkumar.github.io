@@ -1,117 +1,141 @@
 ---
 layout: home
-
-hero:
-  name: "Ravi Shankar"
-  text: "Applied AI engineer, teacher, and family man."
-  tagline: "I love building Applied AI systems at Salesforce, I genuinely love teaching through Kavriq, and I deeply enjoy the grounding joy of family life."
-  actions:
-    - theme: brand
-      text: Kavriq
-      link: https://kavriq.com/
-    - theme: brand
-      text: Murali Engine
-      link: https://muraliengine.com/
-    - theme: alt
-      text: LinkedIn
-      link: https://www.linkedin.com/in/ravi-shankar-a725b0225/
-    - theme: alt
-      text: Resume
-      link: /resume.pdf
-features:
-  - title: Applied AI
-    details: I genuinely enjoy my work as an Applied AI engineer at Salesforce, where I get to build with modern AI in real systems.
-  - title: Teaching
-    details: I love teaching at Kavriq. Some of the kindest words I have received came from students, and I carry them quietly in my heart.
-  - title: Family
-    details: My family life keeps me grounded, patient, and honest about what success should feel like at the end of a day.
 ---
 
-<section class="portfolio-section intro-split">
-  <div>
-    <p class="section-kicker">What Keeps Calling</p>
-    <h2>I do not just want to build AI systems. I want to teach AI in a way people remember.</h2>
+<section class="personal-hero" id="top">
+  <div class="personal-hero-copy">
+    <p class="section-kicker">Ravi Shankar · Applied AI Engineer</p>
+    <h1>Building with AI.<br><span>Learning it from the inside out.</span></h1>
+    <p class="hero-lead">
+      My work has long lived in Applied AI—turning models into useful, reliable systems.
+      Increasingly, I am going deeper into core AI and machine learning: the mathematics,
+      architectures, and ideas beneath the applications.
+    </p>
+    <div class="hero-actions">
+      <a class="hero-primary" href="#five-themes">Explore my work</a>
+      <a href="https://www.linkedin.com/in/ravi-shankar-a725b0225/">LinkedIn <span aria-hidden="true">↗</span></a>
+      <a href="/resume.pdf">Resume <span aria-hidden="true">↗</span></a>
+    </div>
   </div>
-  <p>
-    I love the work I do in Applied AI at Salesforce. But knowledge starts to feel unfinished
-    if it stays only inside one career. Whatever I learn, I want some part of it to travel
-    forward into the next generation of engineers, students, and builders.
-  </p>
+  <div class="hero-collage" aria-label="Photographs from Wayanad, Goa, and Pondicherry">
+    <figure class="hero-photo photo-wayanad">
+      <img src="./resouces/images/waynad.jpg" alt="Ravi and his child in a tea garden in Wayanad">
+      <figcaption>Wayanad</figcaption>
+    </figure>
+    <figure class="hero-photo photo-goa">
+      <img src="./resouces/images/goa.jpeg" alt="Ravi holding his child on a beach in Goa">
+      <figcaption>Goa</figcaption>
+    </figure>
+    <figure class="hero-photo photo-pondi">
+      <img src="./resouces/images/pondi.jpg" alt="Ravi exploring mangroves near Pondicherry">
+      <figcaption>Pondicherry</figcaption>
+    </figure>
+  </div>
 </section>
 
-<section class="portfolio-grid">
-  <article class="portfolio-card">
-    <span>Pillar One</span>
-    <h3>Applied AI engineering</h3>
-    <p>
-      Professionally, I am drawn to real systems: AI that has to work under pressure, serve
-      people reliably, and fit into the complex machinery of modern software.
-    </p>
+<section id="five-themes" class="story-stack" aria-label="Five themes">
+  <article class="story-band salesforce-band">
+    <div class="band-main">
+      <p class="band-kicker">Professional work</p>
+      <h2>Applied AI at Salesforce</h2>
+      <p class="band-statement">Where AI has to leave the demo and become dependable infrastructure.</p>
+    </div>
+    <div class="band-detail">
+      <p>
+        I build AI in real systems, where scale, reliability, observability, and practical
+        usefulness matter as much as the model itself. This is where my interest in Applied AI
+        is tested against the complexity of production.
+      </p>
+      <a href="https://www.salesforce.com/">About Salesforce <span aria-hidden="true">↗</span></a>
+    </div>
   </article>
-  <a class="portfolio-card feature-card kavriq-card pillar-teaching-card" href="https://kavriq.com/">
-    <span>Pillar Two</span>
-    <h3>Teaching through Kavriq</h3>
-    <p>
-      Kavriq is where my love for AI meets the teaching life I miss: patient explanations,
-      honest depth, and the joy of helping students become confident with ideas that once
-      felt out of reach.
-    </p>
-  </a>
-  <article class="portfolio-card">
-    <span>Pillar Three</span>
-    <h3>Family life</h3>
-    <p>
-      Family gives ambition a softer shape. It reminds me to build a life that is not only
-      productive, but warm, present, and worth coming home to.
-    </p>
+
+  <article class="story-band kavriq-band">
+    <div class="band-main">
+      <p class="band-kicker">Learning & teaching</p>
+      <h2>Kavriq</h2>
+      <p class="band-statement">Understanding modern AI from first principles—and teaching it clearly.</p>
+    </div>
+    <div class="band-detail">
+      <p>
+        Kavriq explores the mathematics, models, and software systems behind modern AI through
+        structured learning paths, engineering references, essays, and video.
+      </p>
+      <div class="band-links">
+        <a href="https://kavriq.com/">Visit Kavriq <span aria-hidden="true">↗</span></a>
+        <a href="https://www.youtube.com/@kavriq">YouTube <span aria-hidden="true">↗</span></a>
+      </div>
+    </div>
+  </article>
+
+  <article class="story-band murali-band">
+    <div class="band-main">
+      <p class="band-kicker">Open-source engineering</p>
+      <h2>Murali Engine</h2>
+      <p class="band-statement">A precise visual language for mathematical and AI explanations.</p>
+    </div>
+    <div class="band-detail">
+      <p>
+        Murali is a Python animation engine with a Rust core. It combines deterministic
+        timelines with GPU-native rendering to create mathematical lessons and AI explainers.
+      </p>
+      <a href="https://muraliengine.com/">Explore Murali <span aria-hidden="true">↗</span></a>
+    </div>
+  </article>
+
+  <article class="story-band bharat-band">
+    <div class="band-main">
+      <p class="band-kicker">Roots & culture</p>
+      <h2>Pranam Bihar</h2>
+      <p class="band-statement">Looking at an old land with fresh eyes.</p>
+    </div>
+    <div class="band-detail">
+      <p>
+        A celebration of Bihar’s people, places, history, food, and living culture—telling
+        richer stories about where I come from and helping those stories travel.
+      </p>
+      <a href="https://pranambihar.com/">Discover Bihar <span aria-hidden="true">↗</span></a>
+    </div>
+  </article>
+
+  <article class="story-band bihar-band">
+    <div class="band-main">
+      <p class="band-kicker">India’s future</p>
+      <h2>Vision for Bharat, 2075</h2>
+      <p class="band-statement">Ideas worth preserving beyond the urgency of the present moment.</p>
+    </div>
+    <div class="band-detail">
+      <p>
+        A long-view civic journal of constructive ideas, structural blueprints, and questions
+        worth carrying into India’s future. It is a place for proposals, scrutiny, and revision.
+      </p>
+      <a href="https://visionforbharat.com/">Read the journal <span aria-hidden="true">↗</span></a>
+    </div>
   </article>
 </section>
 
-<section class="portfolio-section intro-split">
-  <div>
-    <p class="section-kicker">Why Teaching Matters</p>
-    <h2>Some of my most prized possessions are not things at all.</h2>
+<footer class="personal-footer">
+  <div class="footer-intro">
+    <a class="footer-name" href="#top">Ravi Shankar</a>
+    <p>Every day, a little better than yesterday.</p>
+    <small>Keep learning. Keep building. Keep moving forward.</small>
   </div>
-  <p>
-    They are the kind words students have given me over the years. Teaching has brought me a
-    rare kind of affection: students returning with better questions, generous feedback, and
-    the quiet trust that forms when a difficult idea finally becomes clear. I carry those words
-    in my heart, and I miss that bond.
-  </p>
-</section>
-
-<section class="portfolio-section youtube-section">
-  <div>
-    <p class="section-kicker">The Larger Room</p>
-    <h2>Maybe the next version of me is a widely loved teacher.</h2>
-    <p>
-      I do not mean fame for its own sake. I mean reach: a larger room, more students, and a
-      chance to make AI feel clear, human, and possible for people who are ready to build.
-      Kavriq is my way of returning to teaching with more depth, more patience, and more care.
-    </p>
+  <nav aria-label="Projects">
+    <span>Explore</span>
+    <a href="https://kavriq.com/">Kavriq</a>
+    <a href="https://muraliengine.com/">Murali Engine</a>
+    <a href="https://visionforbharat.com/">Vision for Bharat</a>
+    <a href="https://pranambihar.com/">Pranam Bihar</a>
+  </nav>
+  <nav aria-label="Connect">
+    <span>Connect</span>
+    <a href="https://www.linkedin.com/in/ravi-shankar-a725b0225/">LinkedIn</a>
+    <a href="/resume.pdf">Resume</a>
+    <a href="https://www.youtube.com/@RaviShankar-sn2kc/featured">Personal YouTube</a>
+    <a href="mailto:info@ravishankarkumar.com">Email</a>
+  </nav>
+  <div class="footer-base">
+    <span>© 2016–2026 Ravi Shankar</span>
+    <span>Bengaluru, India</span>
   </div>
-  <a class="youtube-callout kavriq-callout" href="https://kavriq.com/">
-    <span>Learn with me</span>
-    <strong>Kavriq</strong>
-  </a>
-</section>
-
-<section class="portfolio-section life-section compact">
-  <div>
-    <p class="section-kicker">Still Building</p>
-    <h2>Murali remains part of the same teaching instinct.</h2>
-    <p>
-      Murali Engine is a tool for creating mathematical animations and teaching visuals. It
-      comes from the same place as Kavriq: a desire to make abstract ideas visible, precise,
-      and easier to understand.
-    </p>
-  </div>
-  <a class="portfolio-card feature-card murali-card murali-callout" href="https://muraliengine.com/">
-    <span>Murali Engine</span>
-    <h3>A tool for creating mathematical animations and teaching visuals.</h3>
-    <p>
-      Built for clear, precise educational animation that can make abstract ideas easier to
-      see, explain, and remember.
-    </p>
-  </a>
-</section>
+</footer>
