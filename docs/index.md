@@ -76,8 +76,8 @@ layout: home
     </div>
     <div class="band-detail">
       <p>
-        Murali is a Python animation engine with a Rust core. It combines deterministic
-        timelines with GPU-native rendering to create mathematical lessons and AI explainers.
+        Murali is a JavaScript-based animation system. It combines deterministic timelines
+        with modern web rendering to create mathematical lessons and AI explainers.
       </p>
       <a href="https://muraliengine.com/">Explore Murali <span aria-hidden="true">↗</span></a>
     </div>

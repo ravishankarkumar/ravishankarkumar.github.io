@@ -9,11 +9,11 @@ Active bets, personal projects, and a small window into what I am exploring next
 
 ## Murali Engine
 
-[Murali Engine](https://muraliengine.com/) is a Rust-powered engine for mathematical animation, teaching visuals, and timeline-driven scene construction.
+[Murali Engine](https://muraliengine.com/) is a JavaScript-based system for mathematical animation, teaching visuals, and timeline-driven scene construction.
 
 - Deterministic scenes built as explicit functions of time.
-- GPU-native rendering powered by `wgpu` across Metal, Vulkan, and DirectX 12.
-- Typed scene construction in Rust, so larger animation codebases can stay structured and maintainable.
+- JavaScript-first scene construction for an accessible, flexible authoring experience.
+- Modern web rendering that makes animations easy to build, preview, and share.
 - Built for mathematical expression, visual teaching, and precise synchronization with narration or edited video.
 
 ## Kavriq
