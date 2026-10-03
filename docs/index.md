@@ -19,15 +19,15 @@ layout: home
   </div>
   <div class="hero-collage" aria-label="Photographs from Wayanad, Goa, and Pondicherry">
     <figure class="hero-photo photo-wayanad">
-      <img src="./resouces/images/waynad.jpg" alt="Ravi and his child in a tea garden in Wayanad">
+      <img src="./resouces/images/compressed/waynad.jpg" alt="Ravi and his child in a tea garden in Wayanad">
       <figcaption>Wayanad</figcaption>
     </figure>
     <figure class="hero-photo photo-goa">
-      <img src="./resouces/images/goa.jpeg" alt="Ravi holding his child on a beach in Goa">
+      <img src="./resouces/images/compressed/goa.jpeg" alt="Ravi holding his child on a beach in Goa">
       <figcaption>Goa</figcaption>
     </figure>
     <figure class="hero-photo photo-pondi">
-      <img src="./resouces/images/pondi.jpg" alt="Ravi exploring mangroves near Pondicherry">
+      <img src="./resouces/images/compressed/pondi.jpg" alt="Ravi exploring mangroves near Pondicherry">
       <figcaption>Pondicherry</figcaption>
     </figure>
   </div>
